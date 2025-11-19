@@ -1,6 +1,11 @@
+## 🤖 Detección de Voz Falsa mediante IA (Fake Voice Detection using AI)
+### Descripción del Proyecto:
+Este proyecto se centra en el desarrollo de un modelo de Inteligencia Artificial para la detección de voz falsa (spoof) en grabaciones de audio. El objetivo principal es clasificar si un audio es real (bonafide) o falso (spoof). Un criterio clave en el desarrollo fue priorizar la minimización de Falsos Negativos, es decir, se consideró preferible clasificar un audio real como falso, que clasificar un audio falso como real.
 
+### Objetivos
 
-
+- Clasificación Binaria: Determinar si un audio de voz es genuino (bonafide) o sintético/modificado (spoof).
+- Robustez: Desarrollar un modelo que sea altamente preciso contra ataques sofisticados de spoofing.
 
 <img width="998" alt="1" src="https://github.com/user-attachments/assets/f1e60622-be0b-499c-b639-f0ce9088543d" />
 <img width="998" alt="2" src="https://github.com/user-attachments/assets/a6bd9401-2d53-46de-8dc5-ca385adfb92d" />
